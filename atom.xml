@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Blog]]></title>
+  <link href="https://mlgmlg103.github.io/my-blog/atom.xml" rel="self"/>
+  <link href="https://mlgmlg103.github.io/my-blog/"/>
+  <updated>2018-01-07T22:37:18+08:00</updated>
+  <id>https://mlgmlg103.github.io/my-blog/</id>
+  <author>
+    <name><![CDATA[]]></name>
+    
+  </author>
+  <generator uri="http://www.coderforart.com/">CoderForArt</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[第一篇文章]]></title>
+    <link href="https://mlgmlg103.github.io/my-blog/15153353560129.html"/>
+    <updated>2018-01-07T22:29:16+08:00</updated>
+    <id>https://mlgmlg103.github.io/my-blog/15153353560129.html</id>
+    <content type="html"><![CDATA[
+<pre><code>這是第一篇用mweb寫的文章。
+</code></pre>
+
+]]></content>
+  </entry>
+  
+</feed>
